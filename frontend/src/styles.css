@@ -1,0 +1,9 @@
+body{
+    background-image: url("https://i.ytimg.com/vi/wVCuNtZNBH4/maxresdefault.jpg");
+    /* background-image: url("https://i.ytimg.com/vi/6qG_hhFOUX4/maxresdefault.jpg"); */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height:100vh;
+    overflow-y: hidden;
+}
