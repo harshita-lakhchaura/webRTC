@@ -8,7 +8,7 @@ import './app.css'
 function App() {
   return (
     <div>
-      <div className="heading">Chat It Up</div>
+      <div className="mt-4 bg-[#AEF5F5] text-center text-[4rem] font-[Jose] w-[30rem] ml-[35%] rounded-lg font-bold">Chat It Up</div>
       <VideoPlayer />
       <Options>
         <Notifications />
